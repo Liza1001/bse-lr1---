@@ -10,3 +10,6 @@ This repository contains the first laboratory work for Basics of Software Engine
 - Python
 - Git
 - GitHub
+
+## Status
+Completed
